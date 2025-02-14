@@ -99,7 +99,8 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 1.5rem; /* Changed from 1rem (16px) to 1.5rem (24px) */
+  font-weight: lighter; /* Match the font weight of class nine */
 }
 
 .idea-5 span,
